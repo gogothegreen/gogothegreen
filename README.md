@@ -1,4 +1,4 @@
-[![Header](https://raw.githubusercontent.com/gogothegreen/gogothegreen/assets/header1_3.png "Header")](https://dev.to/gogothegreen)
+[![Header](https://github.com/gogothegreen/gogothegreen/assets/header1_3.png "Header")]
 
 ### Hi there 👋
 
