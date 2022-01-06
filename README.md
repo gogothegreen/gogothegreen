@@ -1,4 +1,4 @@
-[![Govind Nair header](https://raw.githubusercontent.com/gogothegreen/gogothegreen/main/assets/header1_4.png "Header")](https://dev.to/gogothegreen)
+[![Govind Nair header](https://raw.githubusercontent.com/gogothegreen/gogothegreen/main/assets/header1_5.png "Header")](https://dev.to/gogothegreen)
 
 ### Hi there 👋
 
