@@ -3,7 +3,7 @@
 ### Hi there 👋
 I love coding, especially related to complex data (like biological networks) and visualizations. I am building this up right now. Will be adding some of my past projects and current ones soon!
 
-🌱 I’m currently learning SBML
+🌱 I’m currently learning SBCL
 
 ## GitHub Stats
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gogothegreen&show_icons=true&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
