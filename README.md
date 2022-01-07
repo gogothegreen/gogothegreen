@@ -1,6 +1,9 @@
 [![Govind Nair header](https://raw.githubusercontent.com/gogothegreen/gogothegreen/main/assets/header1_5.png "Header")](https://dev.to/gogothegreen)
 
 ### Hi there 👋
+I love coding, especially related to complex data (like biological networks) and visualizations. I am building this up right now. Will be adding some of my past projects and current ones soon!
+
+🌱 I’m currently learning SBML
 
 ## GitHub Stats
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gogothegreen&show_icons=true&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
