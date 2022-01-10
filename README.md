@@ -1,6 +1,7 @@
 [![Govind Nair header](https://raw.githubusercontent.com/gogothegreen/gogothegreen/main/assets/header1_5.png "Header")](https://dev.to/gogothegreen)
 
-### Hi there 👋
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=%2340A597&size=30&width=800&lines=Welcome+to+my+github+profile;I+like+extracting+meaning+out+of+data!)](https://git.io/typing-svg)
+
 I love coding, especially related to complex data (like biological networks) and visualizations. I am building this up right now. Will be adding some of my past projects and current ones soon!
 
 🌱 I’m currently learning SBCL
