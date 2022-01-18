@@ -7,7 +7,9 @@ I love coding, especially related to complex data (like biological networks) and
 🌱 I’m currently learning SBCL
 
 ## GitHub Stats
-[//]: #  from https://github.com/anuraghazra/github-readme-stats
+
+[//]: # "from https://github.com/anuraghazra/github-readme-stats"
+
 ![Govind's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gogothegreen&hide=tex&layout=compact)
 ![Govind's GitHub stats](https://github-readme-stats.vercel.app/api?username=gogothegreen&show_icons=true&theme=synthwave)
 
