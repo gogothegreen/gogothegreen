@@ -6,7 +6,7 @@ I love coding, especially related to complex data (like biological networks) and
 
 🌱 I’m currently learning SBCL
 
-## GitHub Stats
+## &#x1f4c8; GitHub Stats
 
 [//]: # "from https://github.com/anuraghazra/github-readme-stats"
 
