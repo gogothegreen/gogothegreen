@@ -7,7 +7,7 @@ I love coding, especially related to complex data (like biological networks) and
 🌱 I’m currently learning SBCL
 
 ## GitHub Stats
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gogothegreen&show_icons=true&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
+[![Govind's GitHub stats](https://github-readme-stats.vercel.app/api?username=gogothegreen&show_icons=true&theme=synthwave)]
 
 <!--
 **gogothegreen/gogothegreen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
