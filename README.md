@@ -1,4 +1,7 @@
-![Neon Animated SVG](https://raw.githubusercontent.com/gogothegreen/gogothegreen/main/assets/neon_animation.svg)
+<div style="text-align: center;">
+  <img src="https://raw.githubusercontent.com/gogothegreen/gogothegreen/main/assets/neon_animation.svg" alt="Neon Animated SVG" style="width: 100%; max-width: 600px;">
+</div>
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=%23F7B32B&size=30&center=true&width=800&lines=Welcome+to+my+GitHub!)](https://git.io/typing-svg)
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=%2340A597&size=30&center=true&width=800&lines=I+love+building+cool+stuff.)](https://git.io/typing-svg)
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=%23FF5733&size=30&center=true&width=800&lines=Excited+about+the+potential+of+AI!)](https://git.io/typing-svg)
