@@ -2,9 +2,53 @@
   <img src="https://raw.githubusercontent.com/gogothegreen/gogothegreen/main/assets/neon_animation.svg" alt="Neon Animated SVG" style="width: 100%; max-width: 600px;">
 </div>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=%23F7B32B&size=30&center=true&width=800&lines=Welcome+to+my+GitHub!)](https://git.io/typing-svg)
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=%2340A597&size=30&center=true&width=800&lines=I+love+building+cool+stuff.)](https://git.io/typing-svg)
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=%23FF5733&size=30&center=true&width=800&lines=Excited+about+the+potential+of+AI!)](https://git.io/typing-svg)
+[<svg width="100%" height="150" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 150">
+  <rect width="100%" height="100%" fill="black" />
+  
+  <!-- Welcome to my GitHub -->
+  <text id="line1" font-size="30" font-style="italic" fill="none" stroke="#F7B32B" stroke-width="1" text-anchor="end">
+    Welcome to my GitHub!
+  </text>
+
+  <!-- I love building cool stuff -->
+  <text id="line2" font-size="30" font-style="italic" fill="none" stroke="#40A597" stroke-width="1" text-anchor="end" dy="3em">
+    I love building cool stuff.
+  </text>
+
+  <!-- Excited about the potential of AI -->
+  <text id="line3" font-size="30" font-style="italic" fill="none" stroke="#FF5733" stroke-width="1" text-anchor="end" dy="3em">
+    Excited about the potential of AI!
+  </text>
+
+  <style>
+    /* Typing Effect */
+    #line1 {
+      animation: typing 4s steps(30) forwards, moveLeft 6s linear infinite 4s; /* Moves after typing */
+    }
+    
+    #line2 {
+      animation: typing 4s steps(30) forwards, moveLeft 6s linear infinite 10s; /* Moves after typing */
+    }
+    
+    #line3 {
+      animation: typing 4s steps(30) forwards, moveLeft 6s linear infinite 16s; /* Moves after typing */
+    }
+
+    @keyframes typing {
+      from { stroke-dasharray: 0 1000; }
+      to { stroke-dasharray: 1000 0; }
+    }
+
+    @keyframes moveLeft {
+      0% {
+        transform: translateX(800px); /* Start off-screen to the right */
+      }
+      100% {
+        transform: translateX(-800px); /* Move off-screen to the left */
+      }
+    }
+  </style>
+</svg>
 
 ### About Me
 
