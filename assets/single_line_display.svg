@@ -1,0 +1,8 @@
+<svg width="100%" height="150" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 150">
+  <rect width="100%" height="100%" fill="black" />
+  
+  <!-- Welcome to my GitHub -->
+  <text font-size="30" font-style="italic" fill="#F7B32B" text-anchor="end" x="800" y="40">
+    Welcome to my GitHub! I love building cool stuff. Excited about the potential of AI!
+  </text>
+</svg>
