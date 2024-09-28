@@ -2,8 +2,8 @@
   <img src="https://raw.githubusercontent.com/gogothegreen/gogothegreen/main/assets/neon_animation.svg" alt="Neon Animated SVG" style="width: 100%; max-width: 600px;">
 </div>
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/gogothegreen/gogothegreen/main/assets/animated_typing.svg" alt="Animated Typing SVG" style="max-width: 100%;">
+<div style="text-align: center; color: #F7B32B; font-size: 30px; font-style: italic;">
+  Welcome to my GitHub! I love building cool stuff. Excited about the potential of AI!
 </div>
 
 ### About Me
