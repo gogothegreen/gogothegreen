@@ -1,10 +1,17 @@
-[![Govind Nair header](https://raw.githubusercontent.com/gogothegreen/gogothegreen/main/assets/header1_5.png "Header")](https://dev.to/gogothegreen)
+![Neon Animated SVG](https://raw.githubusercontent.com/gogothegreen/gogothegreen/main/assets/neon_animation.svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=%23F7B32B&size=30&center=true&width=800&lines=Welcome+to+my+GitHub!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=%2340A597&size=30&center=true&width=800&lines=I+love+building+cool+stuff.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=%23FF5733&size=30&center=true&width=800&lines=Excited+about+the+potential+of+AI!)](https://git.io/typing-svg)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=%2340A597&size=30&width=800&lines=Welcome+to+my+github+profile;I+like+extracting+meaning+from+data!)](https://git.io/typing-svg)
+### About Me
 
-I love coding, especially related to complex data (like biological networks) and visualizations. I am building this up right now. Will be adding some of my past projects and current ones soon!
+Hi, I'm Govind! I love coding, especially when it involves complex data (think: biological networks) and crafting beautiful visualizations. I’m always excited to explore new ideas and contribute to interesting projects.
 
-🌱 I’m currently learning SBCL
+🌱 **Currently Learning**: SBCL, AI frameworks  
+💻 **Technologies I Love**: Python, R, Shell Scripting, Perl, JavaScript  
+🔭 **Projects**: Working on data visualization tools and AI-driven solutions
+
+Stay tuned for more exciting updates as I continue to build out my portfolio!
 
 ## &#x1f4c8; GitHub Stats
 
