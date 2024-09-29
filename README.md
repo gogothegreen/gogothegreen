@@ -1,8 +1,7 @@
-<div style="text-align: center;">
-  <img src="https://raw.githubusercontent.com/gogothegreen/gogothegreen/main/assets/neon_animation.svg" alt="Neon Animated SVG" style="width: 100%; max-width: 600px;">
+<div align="center">
+  <img src="https://raw.githubusercontent.com/gogothegreen/gogothegreen/main/assets/GN_pic.jpg" alt="Welcome Header" width="100%" loading="lazy">
 </div>
-
-<div style="text-align: center; color: #F7B32B; font-size: 30px; font-style: italic;">
+<div align="center" style="color: #F7B32B; font-size: 24px; font-style: italic;">
   Welcome to my GitHub! I love building cool stuff. Excited about the potential of AI!
 </div>
 
