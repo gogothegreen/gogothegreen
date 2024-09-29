@@ -2,12 +2,12 @@
   <img src="https://raw.githubusercontent.com/gogothegreen/gogothegreen/main/assets/GN_pic.jpg" alt="Welcome Header" width="100%" loading="lazy">
 </div>
 <div align="center" style="color: #F7B32B; font-size: 48px; font-style: italic;">
-  Welcome to my GitHub! I love building cool stuff. Excited about the potential of AI!
+  I love building cool stuff and super excited about the potential of AI!
 </div>
 
 ### About Me
 
-Hi, I'm Govind! I love creating cool stuff using data and crafting beautiful visualizations. I’m always excited to explore new ideas and contribute to interesting projects.
+Hi, I'm Govind! I love creating cool stuff using data and crafting beautiful visualizations. The AI revolution is here n I'm there to promote it!.
 
 🌱 **Currently Learning**: SBCL, AI frameworks  
 💻 **Technologies I Love**: Python, R, Shell Scripting, Perl, JavaScript  
