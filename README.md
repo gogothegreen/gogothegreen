@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/gogothegreen/gogothegreen/main/assets/GN_pic.jpg" alt="Welcome Header" width="100%" loading="lazy">
+  <img src="https://raw.githubusercontent.com/gogothegreen/gogothegreen/main/assets/gn_bear10.png" alt="Welcome Header" width="100%" loading="lazy">
 </div>
 <div align="center" style="color: #F7B32B; font-size: 48px; font-style: italic;">
   I love building cool stuff and super excited about the potential of AI!
