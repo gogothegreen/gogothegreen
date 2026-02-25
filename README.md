@@ -21,10 +21,10 @@ Stay tuned for more exciting updates as I continue to build out my portfolio!
 
 <div align="center">
   <a href="https://github.com/gogothegreen/gogothegreen">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gogothegreen&hide=tex&layout=compact&title_color=ff6b6b&text_color=f5f5f5&icon_color=4ecdc4&bg_color=45,141E30,243B55" />
+    <img align="center" src="https://github-readme-stats-two-red-94.vercel.app/api/top-langs/?username=gogothegreen&hide=tex&layout=compact&title_color=ff6b6b&text_color=f5f5f5&icon_color=4ecdc4&bg_color=45,141E30,243B55" />
   </a>
   <a href="https://github.com/gogothegreen/gogothegreen">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=gogothegreen&show_icons=true&theme=radical&title_color=ff6b6b&text_color=f5f5f5&icon_color=4ecdc4&bg_color=45,141E30,243B55" alt="Govind's GitHub Stats" />
+    <img align="center" src="https://github-readme-stats-two-red-94.vercel.app/api?username=gogothegreen&show_icons=true&theme=radical&title_color=ff6b6b&text_color=f5f5f5&icon_color=4ecdc4&bg_color=45,141E30,243B55" alt="Govind's GitHub Stats" />
   </a>
 </div>
 
